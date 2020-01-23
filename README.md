@@ -1,2 +1,2 @@
 # AdventOfCode2019
-Example 1 - 10 in Python
+Example 1 - 6 in Python
